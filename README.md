@@ -24,4 +24,4 @@ Your source code should be available on GitHub along with instructions in the re
   
 2) There is no right or wrong here, but be prepared to comment on and argue for the choices that you have made.
 
-3) Treat this like an agile project and set yourself a timeframe to deliver this task and stick to it. The most important aspect is to deliver something in you version 1 that works and can be extended
+3) Treat this like an agile project and set yourself a timeframe to deliver this task and stick to it. The most important aspect is to deliver something in your version 1 that works and can be extended
