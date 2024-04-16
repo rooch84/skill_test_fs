@@ -14,7 +14,6 @@ Your source code should be available on GitHub along with instructions in the re
 
 ## Extra credit
 
-- The dataset is retrieved from a database.
 - Host the site in the cloud.
 
 
